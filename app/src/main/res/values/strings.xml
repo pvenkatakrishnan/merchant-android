@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Merchant-android</string>
+    <string name="paypalxo_deeplink_scheme">merchantsample</string>
+    <string name="paypalxo_client_id">12345</string>
+</resources>
